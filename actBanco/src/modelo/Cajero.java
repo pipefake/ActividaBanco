@@ -7,7 +7,7 @@ package modelo;
 
 /**
  *
- * @author Universidad Felipe
+ * @author Universidad Felipe 
  */
 public class Cajero {
     
@@ -21,7 +21,7 @@ public class Cajero {
     public String getPrueba() {
         return Prueba;
     }
-
+hola andrea esto es una prueba
     /**
      * Set the value of Prueba
      *
